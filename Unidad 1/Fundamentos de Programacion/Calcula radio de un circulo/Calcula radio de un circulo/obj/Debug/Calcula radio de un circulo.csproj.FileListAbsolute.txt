@@ -1,0 +1,7 @@
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\Fundamentos de Programacion\Calcula radio de un circulo\Calcula radio de un circulo\bin\Debug\Calcula radio de un circulo.exe.config
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\Fundamentos de Programacion\Calcula radio de un circulo\Calcula radio de un circulo\bin\Debug\Calcula radio de un circulo.exe
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\Fundamentos de Programacion\Calcula radio de un circulo\Calcula radio de un circulo\bin\Debug\Calcula radio de un circulo.pdb
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\Fundamentos de Programacion\Calcula radio de un circulo\Calcula radio de un circulo\obj\Debug\Calcula radio de un circulo.csproj.AssemblyReference.cache
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\Fundamentos de Programacion\Calcula radio de un circulo\Calcula radio de un circulo\obj\Debug\Calcula radio de un circulo.csproj.CoreCompileInputs.cache
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\Fundamentos de Programacion\Calcula radio de un circulo\Calcula radio de un circulo\obj\Debug\Calcula radio de un circulo.exe
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\Fundamentos de Programacion\Calcula radio de un circulo\Calcula radio de un circulo\obj\Debug\Calcula radio de un circulo.pdb

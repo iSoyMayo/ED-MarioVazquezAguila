@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Fundamentos de Programacion\\Calcula radio de un circulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F561990B-44E5-4BAE-B00F-B7E3EDCDE2A2}|Calcula radio de un circulo\\Calcula radio de un circulo.csproj|c:\\users\\mv503\\desktop\\estructura de datos\\ed-mariovazquezaguila\\unidad 1\\fundamentos de programacion\\calcula radio de un circulo\\calcula radio de un circulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F561990B-44E5-4BAE-B00F-B7E3EDCDE2A2}|Calcula radio de un circulo\\Calcula radio de un circulo.csproj|solutionrelative:calcula radio de un circulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 212,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Fundamentos de Programacion\\Calcula radio de un circulo\\Calcula radio de un circulo\\Program.cs",
+              "RelativeDocumentMoniker": "Calcula radio de un circulo\\Program.cs",
+              "ToolTip": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Fundamentos de Programacion\\Calcula radio de un circulo\\Calcula radio de un circulo\\Program.cs",
+              "RelativeToolTip": "Calcula radio de un circulo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:32:08.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\Fundamentos de Programacion\Convertir C a F\Convertir C a F\bin\Debug\Convertir C a F.exe.config
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\Fundamentos de Programacion\Convertir C a F\Convertir C a F\bin\Debug\Convertir C a F.exe
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\Fundamentos de Programacion\Convertir C a F\Convertir C a F\bin\Debug\Convertir C a F.pdb
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\Fundamentos de Programacion\Convertir C a F\Convertir C a F\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\Fundamentos de Programacion\Convertir C a F\Convertir C a F\obj\Debug\Convertir C a F.csproj.AssemblyReference.cache
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\Fundamentos de Programacion\Convertir C a F\Convertir C a F\obj\Debug\Convertir_C_a_F.frmInicio.resources
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\Fundamentos de Programacion\Convertir C a F\Convertir C a F\obj\Debug\Convertir_C_a_F.Properties.Resources.resources
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\Fundamentos de Programacion\Convertir C a F\Convertir C a F\obj\Debug\Convertir C a F.csproj.GenerateResource.cache
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\Fundamentos de Programacion\Convertir C a F\Convertir C a F\obj\Debug\Convertir C a F.csproj.CoreCompileInputs.cache
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\Fundamentos de Programacion\Convertir C a F\Convertir C a F\obj\Debug\Converti.5D654369.Up2Date
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\Fundamentos de Programacion\Convertir C a F\Convertir C a F\obj\Debug\Convertir C a F.exe
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\Fundamentos de Programacion\Convertir C a F\Convertir C a F\obj\Debug\Convertir C a F.pdb

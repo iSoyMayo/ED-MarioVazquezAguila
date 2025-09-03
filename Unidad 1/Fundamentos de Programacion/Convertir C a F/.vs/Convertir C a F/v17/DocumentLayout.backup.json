@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Fundamentos de Programacion\\Convertir C a F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF16D07-8FA8-4BD3-B25E-BF10AC2BCE57}|Convertir C a F\\Convertir C a F.csproj|c:\\users\\mv503\\desktop\\estructura de datos\\ed-mariovazquezaguila\\unidad 1\\fundamentos de programacion\\convertir c a f\\convertir c a f\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CF16D07-8FA8-4BD3-B25E-BF10AC2BCE57}|Convertir C a F\\Convertir C a F.csproj|solutionrelative:convertir c a f\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF16D07-8FA8-4BD3-B25E-BF10AC2BCE57}|Convertir C a F\\Convertir C a F.csproj|c:\\users\\mv503\\desktop\\estructura de datos\\ed-mariovazquezaguila\\unidad 1\\fundamentos de programacion\\convertir c a f\\convertir c a f\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF16D07-8FA8-4BD3-B25E-BF10AC2BCE57}|Convertir C a F\\Convertir C a F.csproj|solutionrelative:convertir c a f\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 212,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Fundamentos de Programacion\\Convertir C a F\\Convertir C a F\\Form1.cs",
+              "RelativeDocumentMoniker": "Convertir C a F\\Form1.cs",
+              "ToolTip": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Fundamentos de Programacion\\Convertir C a F\\Convertir C a F\\Form1.cs*",
+              "RelativeToolTip": "Convertir C a F\\Form1.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:09:23.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Fundamentos de Programacion\\Convertir C a F\\Convertir C a F\\Form1.cs",
+              "RelativeDocumentMoniker": "Convertir C a F\\Form1.cs",
+              "ToolTip": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Fundamentos de Programacion\\Convertir C a F\\Convertir C a F\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Convertir C a F\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:08:02.235Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -30,7 +30,6 @@
         {
             this.txtPantalla = new System.Windows.Forms.TextBox();
             this.btnMasMenos = new System.Windows.Forms.Button();
-            this.btnPorcentaje = new System.Windows.Forms.Button();
             this.btnDivicion = new System.Windows.Forms.Button();
             this.btnNum7 = new System.Windows.Forms.Button();
             this.btnNum8 = new System.Windows.Forms.Button();
@@ -73,25 +72,16 @@
             this.btnMasMenos.UseVisualStyleBackColor = true;
             this.btnMasMenos.Click += new System.EventHandler(this.btnMasMenos_Click);
             // 
-            // btnPorcentaje
-            // 
-            this.btnPorcentaje.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnPorcentaje.Location = new System.Drawing.Point(158, 46);
-            this.btnPorcentaje.Name = "btnPorcentaje";
-            this.btnPorcentaje.Size = new System.Drawing.Size(67, 55);
-            this.btnPorcentaje.TabIndex = 3;
-            this.btnPorcentaje.Text = "%";
-            this.btnPorcentaje.UseVisualStyleBackColor = true;
-            // 
             // btnDivicion
             // 
             this.btnDivicion.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDivicion.Location = new System.Drawing.Point(231, 46);
+            this.btnDivicion.Location = new System.Drawing.Point(158, 46);
             this.btnDivicion.Name = "btnDivicion";
             this.btnDivicion.Size = new System.Drawing.Size(67, 55);
             this.btnDivicion.TabIndex = 4;
             this.btnDivicion.Text = "/";
             this.btnDivicion.UseVisualStyleBackColor = true;
+            this.btnDivicion.Click += new System.EventHandler(this.btnDivicion_Click);
             // 
             // btnNum7
             // 
@@ -162,32 +152,35 @@
             // btnMultiplicacion
             // 
             this.btnMultiplicacion.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnMultiplicacion.Location = new System.Drawing.Point(231, 119);
+            this.btnMultiplicacion.Location = new System.Drawing.Point(231, 46);
             this.btnMultiplicacion.Name = "btnMultiplicacion";
             this.btnMultiplicacion.Size = new System.Drawing.Size(67, 55);
             this.btnMultiplicacion.TabIndex = 11;
             this.btnMultiplicacion.Text = "x";
             this.btnMultiplicacion.UseVisualStyleBackColor = true;
+            this.btnMultiplicacion.Click += new System.EventHandler(this.btnMultiplicacion_Click);
             // 
             // btnMenos
             // 
             this.btnMenos.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnMenos.Location = new System.Drawing.Point(231, 195);
+            this.btnMenos.Location = new System.Drawing.Point(231, 119);
             this.btnMenos.Name = "btnMenos";
             this.btnMenos.Size = new System.Drawing.Size(67, 55);
             this.btnMenos.TabIndex = 12;
             this.btnMenos.Text = "-";
             this.btnMenos.UseVisualStyleBackColor = true;
+            this.btnMenos.Click += new System.EventHandler(this.btnMenos_Click);
             // 
             // btnMas
             // 
             this.btnMas.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnMas.Location = new System.Drawing.Point(231, 265);
+            this.btnMas.Location = new System.Drawing.Point(231, 195);
             this.btnMas.Name = "btnMas";
             this.btnMas.Size = new System.Drawing.Size(67, 55);
             this.btnMas.TabIndex = 13;
             this.btnMas.Text = "+";
             this.btnMas.UseVisualStyleBackColor = true;
+            this.btnMas.Click += new System.EventHandler(this.btnMas_Click);
             // 
             // btnNum3
             // 
@@ -231,6 +224,7 @@
             this.button16.TabIndex = 17;
             this.button16.Text = "Eliminar";
             this.button16.UseVisualStyleBackColor = true;
+            this.button16.Click += new System.EventHandler(this.button16_Click);
             // 
             // btnIgual
             // 
@@ -241,6 +235,7 @@
             this.btnIgual.TabIndex = 20;
             this.btnIgual.Text = "=";
             this.btnIgual.UseVisualStyleBackColor = true;
+            this.btnIgual.Click += new System.EventHandler(this.btnIgual_Click);
             // 
             // btnNum0
             // 
@@ -251,16 +246,18 @@
             this.btnNum0.TabIndex = 19;
             this.btnNum0.Text = "0";
             this.btnNum0.UseVisualStyleBackColor = true;
+            this.btnNum0.Click += new System.EventHandler(this.btnNum0_Click);
             // 
             // btnPunto
             // 
             this.btnPunto.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnPunto.Location = new System.Drawing.Point(158, 326);
+            this.btnPunto.Location = new System.Drawing.Point(231, 265);
             this.btnPunto.Name = "btnPunto";
             this.btnPunto.Size = new System.Drawing.Size(67, 55);
             this.btnPunto.TabIndex = 18;
             this.btnPunto.Text = ".";
             this.btnPunto.UseVisualStyleBackColor = true;
+            this.btnPunto.Click += new System.EventHandler(this.btnPunto_Click);
             // 
             // btnPromedio
             // 
@@ -271,6 +268,7 @@
             this.btnPromedio.TabIndex = 21;
             this.btnPromedio.Text = "Promedio de sumas";
             this.btnPromedio.UseVisualStyleBackColor = true;
+            this.btnPromedio.Click += new System.EventHandler(this.btnPromedio_Click);
             // 
             // Form1
             // 
@@ -295,7 +293,6 @@
             this.Controls.Add(this.btnNum8);
             this.Controls.Add(this.btnNum7);
             this.Controls.Add(this.btnDivicion);
-            this.Controls.Add(this.btnPorcentaje);
             this.Controls.Add(this.btnMasMenos);
             this.Controls.Add(this.txtPantalla);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
@@ -310,7 +307,6 @@
 
         #endregion
         private System.Windows.Forms.Button btnMasMenos;
-        private System.Windows.Forms.Button btnPorcentaje;
         private System.Windows.Forms.Button btnDivicion;
         private System.Windows.Forms.Button btnNum7;
         private System.Windows.Forms.Button btnNum8;

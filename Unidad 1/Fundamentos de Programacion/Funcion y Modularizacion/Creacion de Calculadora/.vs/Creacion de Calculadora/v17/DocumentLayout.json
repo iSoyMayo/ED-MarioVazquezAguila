@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Fundamentos de Programacion\\Funcion y Modularizacion\\Creacion de Calculadora\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF4596D6-D7F6-46DD-AC95-BBE3027CD660}|Creacion de Calculadora\\Creacion de Calculadora.csproj|c:\\users\\mv503\\desktop\\estructura de datos\\ed-mariovazquezaguila\\unidad 1\\fundamentos de programacion\\funcion y modularizacion\\creacion de calculadora\\creacion de calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DF4596D6-D7F6-46DD-AC95-BBE3027CD660}|Creacion de Calculadora\\Creacion de Calculadora.csproj|solutionrelative:creacion de calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DF4596D6-D7F6-46DD-AC95-BBE3027CD660}|Creacion de Calculadora\\Creacion de Calculadora.csproj|c:\\users\\mv503\\desktop\\estructura de datos\\ed-mariovazquezaguila\\unidad 1\\fundamentos de programacion\\funcion y modularizacion\\creacion de calculadora\\creacion de calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF4596D6-D7F6-46DD-AC95-BBE3027CD660}|Creacion de Calculadora\\Creacion de Calculadora.csproj|solutionrelative:creacion de calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF4596D6-D7F6-46DD-AC95-BBE3027CD660}|Creacion de Calculadora\\Creacion de Calculadora.csproj|C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Fundamentos de Programacion\\Funcion y Modularizacion\\Creacion de Calculadora\\creacion de calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF4596D6-D7F6-46DD-AC95-BBE3027CD660}|Creacion de Calculadora\\Creacion de Calculadora.csproj|solutionrelative:creacion de calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF4596D6-D7F6-46DD-AC95-BBE3027CD660}|Creacion de Calculadora\\Creacion de Calculadora.csproj|c:\\users\\mv503\\desktop\\estructura de datos\\ed-mariovazquezaguila\\unidad 1\\fundamentos de programacion\\funcion y modularizacion\\creacion de calculadora\\creacion de calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF4596D6-D7F6-46DD-AC95-BBE3027CD660}|Creacion de Calculadora\\Creacion de Calculadora.csproj|solutionrelative:creacion de calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 212,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Fundamentos de Programacion\\Funcion y Modularizacion\\Creacion de Calculadora\\Creacion de Calculadora\\Form1.cs",
               "RelativeDocumentMoniker": "Creacion de Calculadora\\Form1.cs",
               "ToolTip": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Fundamentos de Programacion\\Funcion y Modularizacion\\Creacion de Calculadora\\Creacion de Calculadora\\Form1.cs",
               "RelativeToolTip": "Creacion de Calculadora\\Form1.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAuwB8AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAqwNwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T21:38:31.068Z",
+              "WhenOpened": "2025-09-04T22:34:37.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Fundamentos de Programacion\\Funcion y Modularizacion\\Creacion de Calculadora\\Creacion de Calculadora\\Form1.cs",
               "RelativeDocumentMoniker": "Creacion de Calculadora\\Form1.cs",

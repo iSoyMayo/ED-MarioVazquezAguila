@@ -48,6 +48,7 @@
             this.btnIgual = new System.Windows.Forms.Button();
             this.btnNum0 = new System.Windows.Forms.Button();
             this.btnPunto = new System.Windows.Forms.Button();
+            this.btnPromedio = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txtPantalla
@@ -70,6 +71,7 @@
             this.btnMasMenos.TabIndex = 2;
             this.btnMasMenos.Text = "+/-";
             this.btnMasMenos.UseVisualStyleBackColor = true;
+            this.btnMasMenos.Click += new System.EventHandler(this.btnMasMenos_Click);
             // 
             // btnPorcentaje
             // 
@@ -100,6 +102,7 @@
             this.btnNum7.TabIndex = 5;
             this.btnNum7.Text = "7";
             this.btnNum7.UseVisualStyleBackColor = true;
+            this.btnNum7.Click += new System.EventHandler(this.btnNum7_Click);
             // 
             // btnNum8
             // 
@@ -110,6 +113,7 @@
             this.btnNum8.TabIndex = 6;
             this.btnNum8.Text = "8";
             this.btnNum8.UseVisualStyleBackColor = true;
+            this.btnNum8.Click += new System.EventHandler(this.btnNum8_Click);
             // 
             // btnNum9
             // 
@@ -120,6 +124,7 @@
             this.btnNum9.TabIndex = 7;
             this.btnNum9.Text = "9";
             this.btnNum9.UseVisualStyleBackColor = true;
+            this.btnNum9.Click += new System.EventHandler(this.btnNum9_Click);
             // 
             // btnNum6
             // 
@@ -130,6 +135,7 @@
             this.btnNum6.TabIndex = 10;
             this.btnNum6.Text = "6";
             this.btnNum6.UseVisualStyleBackColor = true;
+            this.btnNum6.Click += new System.EventHandler(this.btnNum6_Click);
             // 
             // btnNum5
             // 
@@ -140,6 +146,7 @@
             this.btnNum5.TabIndex = 9;
             this.btnNum5.Text = "5";
             this.btnNum5.UseVisualStyleBackColor = true;
+            this.btnNum5.Click += new System.EventHandler(this.btnNum5_Click);
             // 
             // btnNum4
             // 
@@ -150,7 +157,7 @@
             this.btnNum4.TabIndex = 8;
             this.btnNum4.Text = "4";
             this.btnNum4.UseVisualStyleBackColor = true;
-            this.btnNum4.Click += new System.EventHandler(this.button10_Click);
+            this.btnNum4.Click += new System.EventHandler(this.btnNum4_Click);
             // 
             // btnMultiplicacion
             // 
@@ -161,7 +168,6 @@
             this.btnMultiplicacion.TabIndex = 11;
             this.btnMultiplicacion.Text = "x";
             this.btnMultiplicacion.UseVisualStyleBackColor = true;
-            this.btnMultiplicacion.Click += new System.EventHandler(this.button11_Click);
             // 
             // btnMenos
             // 
@@ -192,7 +198,7 @@
             this.btnNum3.TabIndex = 14;
             this.btnNum3.Text = "3";
             this.btnNum3.UseVisualStyleBackColor = true;
-            this.btnNum3.Click += new System.EventHandler(this.button14_Click);
+            this.btnNum3.Click += new System.EventHandler(this.btnNum3_Click);
             // 
             // btnNum2
             // 
@@ -203,6 +209,7 @@
             this.btnNum2.TabIndex = 15;
             this.btnNum2.Text = "2";
             this.btnNum2.UseVisualStyleBackColor = true;
+            this.btnNum2.Click += new System.EventHandler(this.btnNum2_Click);
             // 
             // btnNum1
             // 
@@ -213,6 +220,7 @@
             this.btnNum1.TabIndex = 16;
             this.btnNum1.Text = "1";
             this.btnNum1.UseVisualStyleBackColor = true;
+            this.btnNum1.Click += new System.EventHandler(this.btnNum1_Click);
             // 
             // button16
             // 
@@ -254,11 +262,22 @@
             this.btnPunto.Text = ".";
             this.btnPunto.UseVisualStyleBackColor = true;
             // 
+            // btnPromedio
+            // 
+            this.btnPromedio.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPromedio.Location = new System.Drawing.Point(12, 391);
+            this.btnPromedio.Name = "btnPromedio";
+            this.btnPromedio.Size = new System.Drawing.Size(286, 31);
+            this.btnPromedio.TabIndex = 21;
+            this.btnPromedio.Text = "Promedio de sumas";
+            this.btnPromedio.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(312, 389);
+            this.ClientSize = new System.Drawing.Size(312, 435);
+            this.Controls.Add(this.btnPromedio);
             this.Controls.Add(this.btnIgual);
             this.Controls.Add(this.btnNum0);
             this.Controls.Add(this.btnPunto);
@@ -283,6 +302,7 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculadora";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -309,6 +329,7 @@
         private System.Windows.Forms.Button btnNum0;
         private System.Windows.Forms.Button btnPunto;
         private System.Windows.Forms.TextBox txtPantalla;
+        private System.Windows.Forms.Button btnPromedio;
     }
 }
 

@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Fundamentos de Programacion\\Funcion y Modularizacion\\Genstion de Biblioteca\\",
+  "WorkspaceRootPath": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\POO Avanzada\\Genstion de Biblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD9E4588-2563-46D5-884E-B90F9093CFD0}|Genstion de Biblioteca\\Genstion de Biblioteca.csproj|c:\\users\\mv503\\desktop\\estructura de datos\\ed-mariovazquezaguila\\unidad 1\\fundamentos de programacion\\funcion y modularizacion\\genstion de biblioteca\\genstion de biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CD9E4588-2563-46D5-884E-B90F9093CFD0}|Genstion de Biblioteca\\Genstion de Biblioteca.csproj|c:\\users\\mv503\\desktop\\estructura de datos\\ed-mariovazquezaguila\\unidad 1\\poo avanzada\\genstion de biblioteca\\genstion de biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9E4588-2563-46D5-884E-B90F9093CFD0}|Genstion de Biblioteca\\Genstion de Biblioteca.csproj|solutionrelative:genstion de biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9E4588-2563-46D5-884E-B90F9093CFD0}|Genstion de Biblioteca\\Genstion de Biblioteca.csproj|c:\\users\\mv503\\desktop\\estructura de datos\\ed-mariovazquezaguila\\unidad 1\\poo avanzada\\genstion de biblioteca\\genstion de biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CD9E4588-2563-46D5-884E-B90F9093CFD0}|Genstion de Biblioteca\\Genstion de Biblioteca.csproj|solutionrelative:genstion de biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9E4588-2563-46D5-884E-B90F9093CFD0}|Genstion de Biblioteca\\Genstion de Biblioteca.csproj|c:\\users\\mv503\\desktop\\estructura de datos\\ed-mariovazquezaguila\\unidad 1\\poo avanzada\\genstion de biblioteca\\genstion de biblioteca\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9E4588-2563-46D5-884E-B90F9093CFD0}|Genstion de Biblioteca\\Genstion de Biblioteca.csproj|solutionrelative:genstion de biblioteca\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9E4588-2563-46D5-884E-B90F9093CFD0}|Genstion de Biblioteca\\Genstion de Biblioteca.csproj|c:\\users\\mv503\\desktop\\estructura de datos\\ed-mariovazquezaguila\\unidad 1\\poo avanzada\\genstion de biblioteca\\genstion de biblioteca\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9E4588-2563-46D5-884E-B90F9093CFD0}|Genstion de Biblioteca\\Genstion de Biblioteca.csproj|solutionrelative:genstion de biblioteca\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9E4588-2563-46D5-884E-B90F9093CFD0}|Genstion de Biblioteca\\Genstion de Biblioteca.csproj|c:\\users\\mv503\\desktop\\estructura de datos\\ed-mariovazquezaguila\\unidad 1\\poo avanzada\\genstion de biblioteca\\genstion de biblioteca\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9E4588-2563-46D5-884E-B90F9093CFD0}|Genstion de Biblioteca\\Genstion de Biblioteca.csproj|solutionrelative:genstion de biblioteca\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 212,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Biblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\POO Avanzada\\Genstion de Biblioteca\\Genstion de Biblioteca\\Biblioteca.cs",
+              "RelativeDocumentMoniker": "Genstion de Biblioteca\\Biblioteca.cs",
+              "ToolTip": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\POO Avanzada\\Genstion de Biblioteca\\Genstion de Biblioteca\\Biblioteca.cs",
+              "RelativeToolTip": "Genstion de Biblioteca\\Biblioteca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T20:01:59.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\POO Avanzada\\Genstion de Biblioteca\\Genstion de Biblioteca\\Usuario.cs",
+              "RelativeDocumentMoniker": "Genstion de Biblioteca\\Usuario.cs",
+              "ToolTip": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\POO Avanzada\\Genstion de Biblioteca\\Genstion de Biblioteca\\Usuario.cs",
+              "RelativeToolTip": "Genstion de Biblioteca\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T20:01:55.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\POO Avanzada\\Genstion de Biblioteca\\Genstion de Biblioteca\\Libro.cs",
+              "RelativeDocumentMoniker": "Genstion de Biblioteca\\Libro.cs",
+              "ToolTip": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\POO Avanzada\\Genstion de Biblioteca\\Genstion de Biblioteca\\Libro.cs",
+              "RelativeToolTip": "Genstion de Biblioteca\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T20:00:24.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Fundamentos de Programacion\\Funcion y Modularizacion\\Genstion de Biblioteca\\Genstion de Biblioteca\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\POO Avanzada\\Genstion de Biblioteca\\Genstion de Biblioteca\\Form1.cs",
               "RelativeDocumentMoniker": "Genstion de Biblioteca\\Form1.cs",
-              "ToolTip": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Fundamentos de Programacion\\Funcion y Modularizacion\\Genstion de Biblioteca\\Genstion de Biblioteca\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Genstion de Biblioteca\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\POO Avanzada\\Genstion de Biblioteca\\Genstion de Biblioteca\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Genstion de Biblioteca\\Form1.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T19:03:13.878Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\POO Avanzada\\Genstion de Biblioteca\\Genstion de Biblioteca\\Form1.cs",
+              "RelativeDocumentMoniker": "Genstion de Biblioteca\\Form1.cs",
+              "ToolTip": "C:\\Users\\mv503\\Desktop\\Estructura de Datos\\ED-MarioVazquezAguila\\Unidad 1\\POO Avanzada\\Genstion de Biblioteca\\Genstion de Biblioteca\\Form1.cs*",
+              "RelativeToolTip": "Genstion de Biblioteca\\Form1.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:32:50.615Z",
+              "EditorCaption": ""
             }
           ]
         }

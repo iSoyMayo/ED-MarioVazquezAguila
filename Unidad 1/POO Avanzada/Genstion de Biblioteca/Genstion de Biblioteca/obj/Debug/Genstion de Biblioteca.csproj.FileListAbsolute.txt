@@ -1,0 +1,10 @@
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\POO Avanzada\Genstion de Biblioteca\Genstion de Biblioteca\bin\Debug\Genstion de Biblioteca.exe.config
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\POO Avanzada\Genstion de Biblioteca\Genstion de Biblioteca\bin\Debug\Genstion de Biblioteca.exe
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\POO Avanzada\Genstion de Biblioteca\Genstion de Biblioteca\bin\Debug\Genstion de Biblioteca.pdb
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\POO Avanzada\Genstion de Biblioteca\Genstion de Biblioteca\obj\Debug\Genstion de Biblioteca.csproj.AssemblyReference.cache
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\POO Avanzada\Genstion de Biblioteca\Genstion de Biblioteca\obj\Debug\Genstion_de_Biblioteca.Form1.resources
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\POO Avanzada\Genstion de Biblioteca\Genstion de Biblioteca\obj\Debug\Genstion_de_Biblioteca.Properties.Resources.resources
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\POO Avanzada\Genstion de Biblioteca\Genstion de Biblioteca\obj\Debug\Genstion de Biblioteca.csproj.GenerateResource.cache
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\POO Avanzada\Genstion de Biblioteca\Genstion de Biblioteca\obj\Debug\Genstion de Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\POO Avanzada\Genstion de Biblioteca\Genstion de Biblioteca\obj\Debug\Genstion de Biblioteca.exe
+C:\Users\mv503\Desktop\Estructura de Datos\ED-MarioVazquezAguila\Unidad 1\POO Avanzada\Genstion de Biblioteca\Genstion de Biblioteca\obj\Debug\Genstion de Biblioteca.pdb

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mv503\\OneDrive\\Escritorio\\Estructuras de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Trabajos en clase\\Practica de Rectangulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA44EE81-51ED-4B94-97EE-1462D3B315DA}|Practica de Rectangulo\\Practica de Rectangulo.csproj|c:\\users\\mv503\\onedrive\\escritorio\\estructuras de datos\\ed-mariovazquezaguila\\unidad 1\\trabajos en clase\\practica de rectangulo\\practica de rectangulo\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA44EE81-51ED-4B94-97EE-1462D3B315DA}|Practica de Rectangulo\\Practica de Rectangulo.csproj|solutionrelative:practica de rectangulo\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA44EE81-51ED-4B94-97EE-1462D3B315DA}|Practica de Rectangulo\\Practica de Rectangulo.csproj|c:\\users\\mv503\\onedrive\\escritorio\\estructuras de datos\\ed-mariovazquezaguila\\unidad 1\\trabajos en clase\\practica de rectangulo\\practica de rectangulo\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA44EE81-51ED-4B94-97EE-1462D3B315DA}|Practica de Rectangulo\\Practica de Rectangulo.csproj|solutionrelative:practica de rectangulo\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA44EE81-51ED-4B94-97EE-1462D3B315DA}|Practica de Rectangulo\\Practica de Rectangulo.csproj|c:\\users\\mv503\\onedrive\\escritorio\\estructuras de datos\\ed-mariovazquezaguila\\unidad 1\\trabajos en clase\\practica de rectangulo\\practica de rectangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA44EE81-51ED-4B94-97EE-1462D3B315DA}|Practica de Rectangulo\\Practica de Rectangulo.csproj|solutionrelative:practica de rectangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 212,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\mv503\\OneDrive\\Escritorio\\Estructuras de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Trabajos en clase\\Practica de Rectangulo\\Practica de Rectangulo\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "Practica de Rectangulo\\Cuadrado.cs",
+              "ToolTip": "C:\\Users\\mv503\\OneDrive\\Escritorio\\Estructuras de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Trabajos en clase\\Practica de Rectangulo\\Practica de Rectangulo\\Cuadrado.cs",
+              "RelativeToolTip": "Practica de Rectangulo\\Cuadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:45:28.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\mv503\\OneDrive\\Escritorio\\Estructuras de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Trabajos en clase\\Practica de Rectangulo\\Practica de Rectangulo\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Practica de Rectangulo\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\mv503\\OneDrive\\Escritorio\\Estructuras de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Trabajos en clase\\Practica de Rectangulo\\Practica de Rectangulo\\Rectangulo.cs",
+              "RelativeToolTip": "Practica de Rectangulo\\Rectangulo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:33:13.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mv503\\OneDrive\\Escritorio\\Estructuras de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Trabajos en clase\\Practica de Rectangulo\\Practica de Rectangulo\\Program.cs",
+              "RelativeDocumentMoniker": "Practica de Rectangulo\\Program.cs",
+              "ToolTip": "C:\\Users\\mv503\\OneDrive\\Escritorio\\Estructuras de Datos\\ED-MarioVazquezAguila\\Unidad 1\\Trabajos en clase\\Practica de Rectangulo\\Practica de Rectangulo\\Program.cs",
+              "RelativeToolTip": "Practica de Rectangulo\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:32:32.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

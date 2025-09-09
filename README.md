@@ -15,3 +15,13 @@ Las actividades y proyectos se organizan en carpetas, clasificadas por **unidad*
 ---
 
 ## 📂 Estructura del repositorio
+📁 ED-Mario Esteban Vazquez Aguila
+┣ 📂 Unidad1
+┃ ┣ 📂 NombreActividad1
+┃ ┣ 📂 Actividad2
+┃ ┗ 📂 ...
+┣ 📂 Unidad2
+┃ ┣ 📂 Actividad1
+┃ ┗ 📂 ...
+┗ 📂 Unidad3
+  ┗ 📂 ...

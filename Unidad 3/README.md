@@ -23,23 +23,29 @@ alumno = {
 for clave, valor in alumno.items():
     print(f"{clave}: {valor}")
 📌 Salida esperada:
+```
 
 makefile
 Copiar código
 nombre: Ana
 edad: 21
 carrera: Ingeniería en Sistemas
-2. Uso del método .split()
+
+---
+
+## 2. Conteo de palabras `.split()`
 Se explicó y ejemplificó el uso del método .split(), que permite dividir cadenas en partes y devolver una lista.
 
-python
-Copiar código
-texto = "manzana,pera,uva"
-frutas = texto.split(",")
+```python
 
-print(frutas)  
-# ['manzana', 'pera', 'uva']
-3. Agenda de Contactos 📒
+texto = "hola mundo hola python mundo"
+# Resultado esperado:
+# {"hola": 2, "mundo": 2, "python": 1}```
+
+```
+---
+
+# 3. Agenda telefonica 
 Se desarrolló un programa que utiliza un diccionario de contactos.
 Las operaciones implementadas son:
 
@@ -51,8 +57,7 @@ Eliminar un contacto existente.
 
 Mostrar todos los contactos guardados.
 
-python
-Copiar código
+```python
 # Diccionario de contactos
 contactos = {}
 
@@ -72,7 +77,7 @@ def eliminar_contacto(nombre):
         print(f"🗑️ Contacto '{nombre}' eliminado.")
     else:
         print("⚠️ Contacto no encontrado.")
-
+```
 # Ejemplo de uso
 agregar_contacto("Ana", "5544332211")
 agregar_contacto("Luis", "5522113344")
@@ -89,13 +94,14 @@ Copiar código
 📞 Ana: 5544332211
 🗑️ Contacto 'Luis' eliminado.
 ⚠️ Contacto no encontrado.
-🎯 Objetivo
+---
+# 🎯 Objetivo
 Comprender cómo se crean y manipulan los diccionarios en Python.
 
 Aplicar métodos comunes (.items(), .keys(), .values(), del) para trabajar con ellos.
 
 Resolver problemas prácticos usando diccionarios como base de almacenamiento.
-
+---
 📌 Conclusión
 Los diccionarios son una de las estructuras más útiles en Python, ya que permiten guardar información asociada a una clave y acceder a ella de forma rápida y sencilla.
 Los ejercicios realizados demuestran su uso desde lo más básico (crear un diccionario) hasta una aplicación práctica (agenda de contactos).

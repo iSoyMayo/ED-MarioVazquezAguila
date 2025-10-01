@@ -89,10 +89,15 @@ buscar_contacto("Luis")
 
 perl
 Copiar código
+
 ✅ Contacto 'Ana' agregado.
+
 ✅ Contacto 'Luis' agregado.
+
 📞 Ana: 5544332211
+
 🗑️ Contacto 'Luis' eliminado.
+
 ⚠️ Contacto no encontrado.
 ---
 # 🎯 Objetivo
